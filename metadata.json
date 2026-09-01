@@ -1,0 +1,6 @@
+{
+  "name": "24 Game - เกม 24",
+  "description": "เกมคณิตศาสตร์คิดเลขเร็ว 24 สุ่มตัวเลข 4 ตัว ใช้เครื่องหมาย +, -, *, / และวงเล็บ พร้อมระบบตรวจคำตอบและเฉลย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
